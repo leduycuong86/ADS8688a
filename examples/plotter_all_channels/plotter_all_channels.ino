@@ -16,6 +16,7 @@
 */
  
 #include <ADS8688.h>
+#include "Arduino.h"
  
 ADS8688 bank = ADS8688();               // Instantiate ADS8688 with PIN 10 as default CS
  
